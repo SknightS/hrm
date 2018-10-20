@@ -1,7 +1,5 @@
 <!DOCTYPE html>
 <html>
-    
-<!-- Mirrored from dreamguys.co.in/smarthr/blue/index.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 19 Oct 2018 15:26:30 GMT -->
 <?php include ('head.php') ?>
     <body>
         <div class="main-wrapper">
@@ -10,6 +8,15 @@
             <div class="page-wrapper">
                 <div class="content container-fluid">
 					<div class="row">
+                        <div class="col-md-6 col-sm-6 col-lg-3">
+                            <div class="dash-widget clearfix card-box">
+                                <span class="dash-widget-icon"><i class="fa fa-usd" aria-hidden="true"></i></span>
+                                <div class="dash-widget-info">
+                                    <h3>$44</h3>
+                                    <span>Clients</span>
+                                </div>
+                            </div>
+                        </div>
 						<div class="col-md-6 col-sm-6 col-lg-3">
 							<div class="dash-widget clearfix card-box">
 								<span class="dash-widget-icon"><i class="fa fa-cubes" aria-hidden="true"></i></span>
@@ -19,21 +26,13 @@
 								</div>
 							</div>
 						</div>
-						<div class="col-md-6 col-sm-6 col-lg-3">
-							<div class="dash-widget clearfix card-box">
-								<span class="dash-widget-icon"><i class="fa fa-usd" aria-hidden="true"></i></span>
-								<div class="dash-widget-info">
-									<h3>$44</h3>
-									<span>Clients</span>
-								</div>
-							</div>
-						</div>
+
 						<div class="col-md-6 col-sm-6 col-lg-3">
 							<div class="dash-widget clearfix card-box">
 								<span class="dash-widget-icon"><i class="fa fa-diamond"></i></span>
 								<div class="dash-widget-info">
 									<h3>37</h3>
-									<span>Tasks</span>
+									<span>present</span>
 								</div>
 							</div>
 						</div>
@@ -47,37 +46,37 @@
 							</div>
 						</div>
 					</div>
-					<div class="row">
-						<div class="col-md-12">
-							<div class="row">
-								<div class="col-sm-6 text-center">
-									<div class="card-box">
-										<div id="area-chart" ></div>
-									</div>
-								</div>
-								<div class="col-sm-6 text-center">
-									<div class="card-box">
-										<div id="line-chart"></div>
-									</div>
-								</div>
-								<div  class="col-md-4 col-sm-12 text-center">
-									<div class="card-box">
-										<div id="bar-chart" ></div>
-									</div>
-								</div>
-								<div class="col-md-4 col-sm-12 text-center">
-									<div class="card-box">
-										<div id="stacked" ></div>
-									</div>
-								</div>
-								<div class="col-md-4 col-sm-12 text-center">
-									<div class="card-box">
-										<div id="pie-chart" ></div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
+<!--					<div class="row">-->
+<!--						<div class="col-md-12">-->
+<!--							<div class="row">-->
+<!--								<div class="col-sm-6 text-center">-->
+<!--									<div class="card-box">-->
+<!--										<div id="area-chart" ></div>-->
+<!--									</div>-->
+<!--								</div>-->
+<!--								<div class="col-sm-6 text-center">-->
+<!--									<div class="card-box">-->
+<!--										<div id="line-chart"></div>-->
+<!--									</div>-->
+<!--								</div>-->
+<!--								<div  class="col-md-4 col-sm-12 text-center">-->
+<!--									<div class="card-box">-->
+<!--										<div id="bar-chart" ></div>-->
+<!--									</div>-->
+<!--								</div>-->
+<!--								<div class="col-md-4 col-sm-12 text-center">-->
+<!--									<div class="card-box">-->
+<!--										<div id="stacked" ></div>-->
+<!--									</div>-->
+<!--								</div>-->
+<!--								<div class="col-md-4 col-sm-12 text-center">-->
+<!--									<div class="card-box">-->
+<!--										<div id="pie-chart" ></div>-->
+<!--									</div>-->
+<!--								</div>-->
+<!--							</div>-->
+<!--						</div>-->
+<!--					</div>-->
 					<div class="row">
 						<div class="col-md-6">
 							<div class="panel panel-table">
@@ -492,20 +491,20 @@
 							</div>
 						</div>
 					</div>
-					<div class="themes">
-						<div class="themes-icon"><i class="fa fa-cog"></i></div>
-						<div class="themes-body">
-							<ul id="theme-change" class="theme-colors">
-								<li><a href="https://dreamguys.co.in/smarthr/orange/index.php"><span class="theme-orange"></span></a></li>
-								<li><a href="https://dreamguys.co.in/smarthr/purple/index.php"><span class="theme-purple"></span></a></li> 
-								<li><a href="index.php"><span class="theme-blue"></span></a></li>
-								<li><a href="https://dreamguys.co.in/smarthr/maroon/index.php"><span class="theme-maroon"></span></a></li>
-								<li><a href="https://dreamguys.co.in/smarthr/light/index.php"><span class="theme-light"></span></a></li> 
-								<li><a href="https://dreamguys.co.in/smarthr/dark/index.php"><span class="theme-dark"></span></a></li> 
-								<li><a href="https://dreamguys.co.in/smarthr/rtl/index.php"><span class="theme-rtl">RTL</span></a></li>
-							</ul>
-						</div>
-					</div>
+<!--					<div class="themes">-->
+<!--						<div class="themes-icon"><i class="fa fa-cog"></i></div>-->
+<!--						<div class="themes-body">-->
+<!--							<ul id="theme-change" class="theme-colors">-->
+<!--								<li><a href="https://dreamguys.co.in/smarthr/orange/index.php"><span class="theme-orange"></span></a></li>-->
+<!--								<li><a href="https://dreamguys.co.in/smarthr/purple/index.php"><span class="theme-purple"></span></a></li> -->
+<!--								<li><a href="index.php"><span class="theme-blue"></span></a></li>-->
+<!--								<li><a href="https://dreamguys.co.in/smarthr/maroon/index.php"><span class="theme-maroon"></span></a></li>-->
+<!--								<li><a href="https://dreamguys.co.in/smarthr/light/index.php"><span class="theme-light"></span></a></li> -->
+<!--								<li><a href="https://dreamguys.co.in/smarthr/dark/index.php"><span class="theme-dark"></span></a></li> -->
+<!--								<li><a href="https://dreamguys.co.in/smarthr/rtl/index.php"><span class="theme-rtl">RTL</span></a></li>-->
+<!--							</ul>-->
+<!--						</div>-->
+<!--					</div>-->
 				</div>
 				<div class="notification-box">
 					<div class="msg-sidebar notifications msg-noti">

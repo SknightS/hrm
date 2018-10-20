@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 
-<?php include ('') ?>
+<?php include ('head.php') ?>
     <body>
         <div class="main-wrapper">
             <?php include ('header.php') ?>

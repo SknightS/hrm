@@ -36,7 +36,7 @@
 						<div class="col-sm-3 col-xs-6"> 
 							<div class="form-group form-focus select-focus">
 								<label class="control-label">Company</label>
-								<select class="select floating"> 
+								<select class="select floating">
 									<option value="">Select Company</option>
 									<option value="">Global Technologies</option>
 									<option value="1">Delta Infotech</option>
@@ -872,5 +872,4 @@
 		<script type="text/javascript" src="assets/js/app.js"></script>
     </body>
 
-<!-- Mirrored from dreamguys.co.in/smarthr/blue/clients.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 19 Oct 2018 15:26:36 GMT -->
 </html>

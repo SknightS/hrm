@@ -22,23 +22,23 @@
                 <li>
                     <a href="projects.php">Projects</a>
                 </li>
-                <li>
-                    <a href="tasks.php">Tasks</a>
-                </li>
-                <li class="submenu">
-                    <a href="#"><span> Calls</span> <span class="menu-arrow"></span></a>
-                    <ul class="list-unstyled" style="display: none;">
-                        <li><a href="voice-call.php">Voice Call</a></li>
-                        <li><a href="video-call.php">Video Call</a></li>
-                        <li><a href="incoming-call.php">Incoming Call</a></li>
-                    </ul>
-                </li>
-                <li>
-                    <a href="contacts.php">Contacts</a>
-                </li>
-                <li>
-                    <a href="leads.php">Leads</a>
-                </li>
+<!--                <li>-->
+<!--                    <a href="tasks.php">Tasks</a>-->
+<!--                </li>-->
+<!--                <li class="submenu">-->
+<!--                    <a href="#"><span> Calls</span> <span class="menu-arrow"></span></a>-->
+<!--                    <ul class="list-unstyled" style="display: none;">-->
+<!--                        <li><a href="voice-call.php">Voice Call</a></li>-->
+<!--                        <li><a href="video-call.php">Video Call</a></li>-->
+<!--                        <li><a href="incoming-call.php">Incoming Call</a></li>-->
+<!--                    </ul>-->
+<!--                </li>-->
+<!--                <li>-->
+<!--                    <a href="contacts.php">Contacts</a>-->
+<!--                </li>-->
+<!--                <li>-->
+<!--                    <a href="leads.php">Leads</a>-->
+<!--                </li>-->
                 <li class="submenu">
                     <a href="#"><span> Accounts </span> <span class="menu-arrow"></span></a>
                     <ul class="list-unstyled" style="display: none;">
@@ -57,27 +57,27 @@
                         <li><a href="salary-view.php"> Payslip </a></li>
                     </ul>
                 </li>
-                <li>
-                    <a href="worksheet.php">Timing Sheet</a>
-                </li>
-                <li>
-                    <a href="tickets.php">Tickets</a>
-                </li>
-                <li>
-                    <a href="events.php">Events</a>
-                </li>
-                <li>
-                    <a href="inbox.php">Email</a>
-                </li>
-                <li>
-                    <a href="chat.php">Chat <span class="badge bg-primary pull-right">5</span></a>
-                </li>
+<!--                <li>-->
+<!--                    <a href="worksheet.php">Timing Sheet</a>-->
+<!--                </li>-->
+<!--                <li>-->
+<!--                    <a href="tickets.php">Tickets</a>-->
+<!--                </li>-->
+<!--                <li>-->
+<!--                    <a href="events.php">Events</a>-->
+<!--                </li>-->
+<!--                <li>-->
+<!--                    <a href="inbox.php">Email</a>-->
+<!--                </li>-->
+<!--                <li>-->
+<!--                    <a href="chat.php">Chat <span class="badge bg-primary pull-right">5</span></a>-->
+<!--                </li>-->
                 <li>
                     <a href="assets.php">Assets</a>
                 </li>
-                <li class="active">
-                    <a href="activities.php">Activities</a>
-                </li>
+<!--                <li >-->
+<!--                    <a href="activities.php">Activities</a>-->
+<!--                </li>-->
                 <li>
                     <a href="users.php">Users</a>
                 </li>
@@ -86,19 +86,20 @@
                     <ul class="list-unstyled" style="display: none;">
                         <li><a href="expense-reports.php"> Expense Report </a></li>
                         <li><a href="invoice-reports.php"> Invoice Report </a></li>
+                        <li><a href="#"> Employee Report </a></li>
                     </ul>
                 </li>
-                <li>
-                    <a href="settings.php">Settings</a>
-                </li>
-                <li class="submenu">
-                    <a href="#"><span> Pages </span> <span class="menu-arrow"></span></a>
-                    <ul class="list-unstyled" style="display: none;">
-                        <li><a href="login.php"> Login </a></li>
-                        <li><a href="register.php"> Register </a></li>
-                        <li><a href="forgot-password.php"> Forgot Password </a></li>
-                    </ul>
-                </li>
+<!--                <li>-->
+<!--                    <a href="settings.php">Settings</a>-->
+<!--                </li>-->
+<!--                <li class="submenu">-->
+<!--                    <a href="#"><span> Pages </span> <span class="menu-arrow"></span></a>-->
+<!--                    <ul class="list-unstyled" style="display: none;">-->
+<!--                        <li><a href="login.php"> Login </a></li>-->
+<!--                        <li><a href="register.php"> Register </a></li>-->
+<!--                        <li><a href="forgot-password.php"> Forgot Password </a></li>-->
+<!--                    </ul>-->
+<!--                </li>-->
             </ul>
         </div>
     </div>

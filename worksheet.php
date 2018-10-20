@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
-    
-<!-- Mirrored from dreamguys.co.in/smarthr/blue/worksheet.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 19 Oct 2018 15:26:41 GMT -->
-<?php include ('head.php') ?>
+ <?php include ('head.php') ?>
     <body>
         <div class="main-wrapper">
             <?php include ('header.php') ?>

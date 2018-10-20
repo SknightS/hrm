@@ -21,37 +21,37 @@
 									<ul class="activity-list">
 										<li>
 											<div class="activity-user">
-												<a href="profile.html" title="Lesley Grauer" data-toggle="tooltip" class="avatar">
+												<a href="profile.php" title="Lesley Grauer" data-toggle="tooltip" class="avatar">
 													<img alt="Lesley Grauer" src="assets/img/user.jpg" class="img-responsive img-circle">
 												</a>
 											</div>
 											<div class="activity-content">
 												<div class="timeline-content">
-													<a href="profile.html" class="name">Lesley Grauer</a> added new task <a href="#">Harvey Clinic</a>
+													<a href="profile.php" class="name">Lesley Grauer</a> added new task <a href="#">Harvey Clinic</a>
 													<span class="time">4 mins ago</span>
 												</div>
 											</div>
 										</li>
 										<li>
 											<div class="activity-user">
-												<a href="profile.html" class="avatar" title="Jeffery Lalor" data-toggle="tooltip" style="background-color: #ff6d00">L</a>
+												<a href="profile.php" class="avatar" title="Jeffery Lalor" data-toggle="tooltip" style="background-color: #ff6d00">L</a>
 											</div>
 											<div class="activity-content">
 												<div class="timeline-content">
-													<a href="profile.html" class="name">Jeffery Lalor</a> added <a href="profile.html" class="name">Loren Gatlin</a> and <a href="profile.html" class="name">Tarah Shropshire</a> to project <a href="#">Patient appointment booking</a>
+													<a href="profile.php" class="name">Jeffery Lalor</a> added <a href="profile.php" class="name">Loren Gatlin</a> and <a href="profile.php" class="name">Tarah Shropshire</a> to project <a href="#">Patient appointment booking</a>
 													<span class="time">6 mins ago</span>
 												</div>
 											</div>
 										</li>
 										<li>
 											<div class="activity-user">
-												<a href="profile.html" title="Catherine Manseau" data-toggle="tooltip" class="avatar">
+												<a href="profile.php" title="Catherine Manseau" data-toggle="tooltip" class="avatar">
 													<img alt="Catherine Manseau" src="assets/img/user.jpg" class="img-responsive img-circle">
 												</a>
 											</div>
 											<div class="activity-content">
 												<div class="timeline-content">
-													<a href="profile.html" class="name">Catherine Manseau</a> completed task <a href="#">Appointment booking with payment gateway</a>
+													<a href="profile.php" class="name">Catherine Manseau</a> completed task <a href="#">Appointment booking with payment gateway</a>
 													<span class="time">12 mins ago</span>
 												</div>
 											</div>
@@ -64,33 +64,33 @@
 											</div>
 											<div class="activity-content">
 												<div class="timeline-content">
-													<a href="profile.html" class="name">Bernardo Galaviz</a> changed the task name <a href="#">Doctor available module</a>
+													<a href="profile.php" class="name">Bernardo Galaviz</a> changed the task name <a href="#">Doctor available module</a>
 													<span class="time">1 day ago</span>
 												</div>
 											</div>
 										</li>
 										<li>
 											<div class="activity-user">
-												<a href="profile.html" title="Mike Litorus" data-toggle="tooltip" class="avatar">
+												<a href="profile.php" title="Mike Litorus" data-toggle="tooltip" class="avatar">
 													<img alt="Mike Litorus" src="assets/img/user.jpg" class="img-responsive img-circle">
 												</a>
 											</div>
 											<div class="activity-content">
 												<div class="timeline-content">
-													<a href="profile.html" class="name">Mike Litorus</a> added new task <a href="#">Patient and Doctor video conferencing</a>
+													<a href="profile.php" class="name">Mike Litorus</a> added new task <a href="#">Patient and Doctor video conferencing</a>
 													<span class="time">2 days ago</span>
 												</div>
 											</div>
 										</li>
 										<li>
 											<div class="activity-user">
-												<a href="profile.html" title="Jeffery Lalor" data-toggle="tooltip" class="avatar">
+												<a href="profile.php" title="Jeffery Lalor" data-toggle="tooltip" class="avatar">
 													<img alt="Jeffery Lalor" src="assets/img/user.jpg" class="img-responsive img-circle">
 												</a>
 											</div>
 											<div class="activity-content">
 												<div class="timeline-content">
-													<a href="profile.html" class="name">Jeffery Lalor</a> added <a href="profile.html" class="name">Jeffrey Warden</a> and <a href="profile.html" class="name">Bernardo Galaviz</a> to the task of <a href="#">Private chat module</a>
+													<a href="profile.php" class="name">Jeffery Lalor</a> added <a href="profile.php" class="name">Jeffrey Warden</a> and <a href="profile.php" class="name">Bernardo Galaviz</a> to the task of <a href="#">Private chat module</a>
 													<span class="time">7 days ago</span>
 												</div>
 											</div>
@@ -109,7 +109,7 @@
 						<div class="drop-scroll msg-list-scroll">
 							<ul class="list-box">
 								<li>
-									<a href="chat.html">
+									<a href="chat.php">
 										<div class="list-item">
 											<div class="list-left">
 												<span class="avatar">R</span>
@@ -124,7 +124,7 @@
 									</a>
 								</li>
 								<li>
-									<a href="chat.html">
+									<a href="chat.php">
 										<div class="list-item new-message">
 											<div class="list-left">
 												<span class="avatar">J</span>
@@ -139,7 +139,7 @@
 									</a>
 								</li>
 								<li>
-									<a href="chat.html">
+									<a href="chat.php">
 										<div class="list-item">
 											<div class="list-left">
 												<span class="avatar">T</span>
@@ -154,7 +154,7 @@
 									</a>
 								</li>
 								<li>
-									<a href="chat.html">
+									<a href="chat.php">
 										<div class="list-item">
 											<div class="list-left">
 												<span class="avatar">M</span>
@@ -169,7 +169,7 @@
 									</a>
 								</li>
 								<li>
-									<a href="chat.html">
+									<a href="chat.php">
 										<div class="list-item">
 											<div class="list-left">
 												<span class="avatar">C</span>
@@ -184,7 +184,7 @@
 									</a>
 								</li>
 								<li>
-									<a href="chat.html">
+									<a href="chat.php">
 										<div class="list-item">
 											<div class="list-left">
 												<span class="avatar">D</span>
@@ -199,7 +199,7 @@
 									</a>
 								</li>
 								<li>
-									<a href="chat.html">
+									<a href="chat.php">
 										<div class="list-item">
 											<div class="list-left">
 												<span class="avatar">B</span>
@@ -214,7 +214,7 @@
 									</a>
 								</li>
 								<li>
-									<a href="chat.html">
+									<a href="chat.php">
 										<div class="list-item">
 											<div class="list-left">
 												<span class="avatar">R</span>
@@ -229,7 +229,7 @@
 									</a>
 								</li>
 								<li>
-									<a href="chat.html">
+									<a href="chat.php">
 										<div class="list-item">
 											<div class="list-left">
 												<span class="avatar">C</span>
@@ -244,7 +244,7 @@
 									</a>
 								</li>
 								<li>
-									<a href="chat.html">
+									<a href="chat.php">
 										<div class="list-item">
 											<div class="list-left">
 												<span class="avatar">M</span>
@@ -259,7 +259,7 @@
 									</a>
 								</li>
 								<li>
-									<a href="chat.html">
+									<a href="chat.php">
 										<div class="list-item">
 											<div class="list-left">
 												<span class="avatar">J</span>
@@ -274,7 +274,7 @@
 									</a>
 								</li>
 								<li>
-									<a href="chat.html">
+									<a href="chat.php">
 										<div class="list-item">
 											<div class="list-left">
 												<span class="avatar">L</span>
@@ -289,7 +289,7 @@
 									</a>
 								</li>
 								<li>
-									<a href="chat.html">
+									<a href="chat.php">
 										<div class="list-item">
 											<div class="list-left">
 												<span class="avatar">T</span>
@@ -306,7 +306,7 @@
 							</ul>
 						</div>
 						<div class="topnav-dropdown-footer">
-							<a href="chat.html">See all messages</a>
+							<a href="chat.php">See all messages</a>
 						</div>
 					</div>
 				</div>
@@ -319,5 +319,5 @@
 		<script type="text/javascript" src="assets/js/app.js"></script>
     </body>
 
-<!-- Mirrored from dreamguys.co.in/smarthr/blue/activities.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 19 Oct 2018 15:26:30 GMT -->
+<!-- Mirrored from dreamguys.co.in/smarthr/blue/activities.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 19 Oct 2018 15:26:30 GMT -->
 </html>

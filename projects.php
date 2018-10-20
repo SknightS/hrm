@@ -15,8 +15,8 @@
 						<div class="col-xs-8 text-right m-b-30">
 							<a href="#" class="btn btn-primary rounded pull-right" data-toggle="modal" data-target="#create_project"><i class="fa fa-plus"></i> Create Project</a>
 							<div class="view-icons">
-								<a href="projects.html" class="grid-view btn btn-link active"><i class="fa fa-th"></i></a>
-								<a href="project-list.html" class="list-view btn btn-link"><i class="fa fa-bars"></i></a>
+								<a href="projects.php" class="grid-view btn btn-link active"><i class="fa fa-th"></i></a>
+								<a href="project-list.php" class="list-view btn btn-link"><i class="fa fa-bars"></i></a>
 							</div>
 						</div>
 					</div>
@@ -59,7 +59,7 @@
 										<li><a href="#" data-toggle="modal" data-target="#delete_project"><i class="fa fa-trash-o m-r-5"></i> Delete</a></li>
 									</ul>
 								</div>
-								<h4 class="project-title"><a href="project-view.html">Food and Drinks</a></h4>
+								<h4 class="project-title"><a href="project-view.php">Food and Drinks</a></h4>
 								<small class="block text-ellipsis m-b-15">
 									<span class="text-xs">1</span> <span class="text-muted">open tasks, </span>
 									<span class="text-xs">9</span> <span class="text-muted">tasks completed</span>
@@ -119,7 +119,7 @@
 										<li><a href="#" data-toggle="modal" data-target="#delete_project"><i class="fa fa-trash-o m-r-5"></i> Delete</a></li>
 									</ul>
 								</div>
-								<h4 class="project-title"><a href="project-view.html">School Guru</a></h4>
+								<h4 class="project-title"><a href="project-view.php">School Guru</a></h4>
 								<small class="block text-ellipsis m-b-15">
 									<span class="text-xs">2</span> <span class="text-muted">open tasks, </span>
 									<span class="text-xs">5</span> <span class="text-muted">tasks completed</span>
@@ -179,7 +179,7 @@
 										<li><a href="#" data-toggle="modal" data-target="#delete_project"><i class="fa fa-trash-o m-r-5"></i> Delete</a></li>
 									</ul>
 								</div>
-								<h4 class="project-title"><a href="project-view.html">Penabook</a></h4>
+								<h4 class="project-title"><a href="project-view.php">Penabook</a></h4>
 								<small class="block text-ellipsis m-b-15">
 									<span class="text-xs">3</span> <span class="text-muted">open tasks, </span>
 									<span class="text-xs">3</span> <span class="text-muted">tasks completed</span>
@@ -239,7 +239,7 @@
 										<li><a href="#" data-toggle="modal" data-target="#delete_project"><i class="fa fa-trash-o m-r-5"></i> Delete</a></li>
 									</ul>
 								</div>
-								<h4 class="project-title"><a href="project-view.html">Harvey Clinic</a></h4>
+								<h4 class="project-title"><a href="project-view.php">Harvey Clinic</a></h4>
 								<small class="block text-ellipsis m-b-15">
 									<span class="text-xs">12</span> <span class="text-muted">open tasks, </span>
 									<span class="text-xs">4</span> <span class="text-muted">tasks completed</span>
@@ -300,7 +300,7 @@
 						<div class="drop-scroll msg-list-scroll">
 							<ul class="list-box">
 								<li>
-									<a href="chat.html">
+									<a href="chat.php">
 										<div class="list-item">
 											<div class="list-left">
 												<span class="avatar">R</span>
@@ -315,7 +315,7 @@
 									</a>
 								</li>
 								<li>
-									<a href="chat.html">
+									<a href="chat.php">
 										<div class="list-item new-message">
 											<div class="list-left">
 												<span class="avatar">J</span>
@@ -330,7 +330,7 @@
 									</a>
 								</li>
 								<li>
-									<a href="chat.html">
+									<a href="chat.php">
 										<div class="list-item">
 											<div class="list-left">
 												<span class="avatar">T</span>
@@ -345,7 +345,7 @@
 									</a>
 								</li>
 								<li>
-									<a href="chat.html">
+									<a href="chat.php">
 										<div class="list-item">
 											<div class="list-left">
 												<span class="avatar">M</span>
@@ -360,7 +360,7 @@
 									</a>
 								</li>
 								<li>
-									<a href="chat.html">
+									<a href="chat.php">
 										<div class="list-item">
 											<div class="list-left">
 												<span class="avatar">C</span>
@@ -375,7 +375,7 @@
 									</a>
 								</li>
 								<li>
-									<a href="chat.html">
+									<a href="chat.php">
 										<div class="list-item">
 											<div class="list-left">
 												<span class="avatar">D</span>
@@ -390,7 +390,7 @@
 									</a>
 								</li>
 								<li>
-									<a href="chat.html">
+									<a href="chat.php">
 										<div class="list-item">
 											<div class="list-left">
 												<span class="avatar">B</span>
@@ -405,7 +405,7 @@
 									</a>
 								</li>
 								<li>
-									<a href="chat.html">
+									<a href="chat.php">
 										<div class="list-item">
 											<div class="list-left">
 												<span class="avatar">R</span>
@@ -420,7 +420,7 @@
 									</a>
 								</li>
 								<li>
-									<a href="chat.html">
+									<a href="chat.php">
 										<div class="list-item">
 											<div class="list-left">
 												<span class="avatar">C</span>
@@ -435,7 +435,7 @@
 									</a>
 								</li>
 								<li>
-									<a href="chat.html">
+									<a href="chat.php">
 										<div class="list-item">
 											<div class="list-left">
 												<span class="avatar">M</span>
@@ -450,7 +450,7 @@
 									</a>
 								</li>
 								<li>
-									<a href="chat.html">
+									<a href="chat.php">
 										<div class="list-item">
 											<div class="list-left">
 												<span class="avatar">J</span>
@@ -465,7 +465,7 @@
 									</a>
 								</li>
 								<li>
-									<a href="chat.html">
+									<a href="chat.php">
 										<div class="list-item">
 											<div class="list-left">
 												<span class="avatar">L</span>
@@ -480,7 +480,7 @@
 									</a>
 								</li>
 								<li>
-									<a href="chat.html">
+									<a href="chat.php">
 										<div class="list-item">
 											<div class="list-left">
 												<span class="avatar">T</span>
@@ -497,7 +497,7 @@
 							</ul>
 						</div>
 						<div class="topnav-dropdown-footer">
-							<a href="chat.html">See all messages</a>
+							<a href="chat.php">See all messages</a>
 						</div>
 					</div>
 				</div>
@@ -797,5 +797,5 @@
         </script>
     </body>
 
-<!-- Mirrored from dreamguys.co.in/smarthr/blue/projects.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 19 Oct 2018 15:26:37 GMT -->
+<!-- Mirrored from dreamguys.co.in/smarthr/blue/projects.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 19 Oct 2018 15:26:37 GMT -->
 </html>
