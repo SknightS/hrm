@@ -81,12 +81,20 @@
                 <li>
                     <a href="users.php">Users</a>
                 </li>
+                <li>
+                    <a href="ot.php">OT</a>
+
+                </li>
+                <li>
+                    <a href="shift.php">Shift</a>
+
+                </li>
                 <li class="submenu">
                     <a href="#"><span> Reports </span> <span class="menu-arrow"></span></a>
                     <ul class="list-unstyled" style="display: none;">
                         <li><a href="expense-reports.php"> Expense Report </a></li>
                         <li><a href="invoice-reports.php"> Invoice Report </a></li>
-                        <li><a href="#"> Employee Report </a></li>
+                        <li><a href="employeereport.php"> Employee Report </a></li>
                     </ul>
                 </li>
 <!--                <li>-->
